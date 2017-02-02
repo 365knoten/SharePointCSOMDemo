@@ -7,9 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharePointCSOMDemo", "Share
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6584F57C-467D-4A4E-AB41-EC066D20B2E2}"
 	ProjectSection(SolutionItems) = preProject
-		index.md = index.md
 		model.xml = model.xml
 		ProjectShell.ps1 = ProjectShell.ps1
+		readme.md = readme.md
 	EndProjectSection
 EndProject
 Global
